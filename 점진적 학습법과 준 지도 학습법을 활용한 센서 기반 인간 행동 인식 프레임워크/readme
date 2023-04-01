@@ -1,10 +1,12 @@
+
+
+논문 dbpia 사이트
+https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11195562
+
+
 abstract:
 Sensor-based human activity recognition using machine learning methods has been used in various healthcare services 
 recently, and their significance is increasing. However, previous methods have limitations with leakage of personal information, 
 increased computation time caused by data growth, and difficulty in data labeling. In this study, we propose a human activity recognition framework 
 that combines incremental learning and semi-supervised learning methods to overcome these limitations. Our proposed method can be trained more quickly 
 without performance loss than conventional batch learning methods in sensor-based human activity recognition.
-
-
-논문 dbpia 사이트
-https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11195562
